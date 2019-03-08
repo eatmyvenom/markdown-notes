@@ -1,0 +1,19 @@
+{
+  "name": "mdnotes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eatmyvenom/markdown-notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eatmyvenom/markdown-notes/issues"
+  },
+  "homepage": "https://github.com/eatmyvenom/markdown-notes#readme"
+}
