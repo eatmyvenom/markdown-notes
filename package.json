@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/eatmyvenom/markdown-notes/issues"
   },
-  "homepage": "https://github.com/eatmyvenom/markdown-notes#readme"
+  "homepage": "https://github.com/eatmyvenom/markdown-notes#readme",
+  "dependencies": {
+    "asar": "^1.0.0",
+    "electron": "^4.0.7",
+    "markdown-it": "^8.4.2"
+  }
 }
